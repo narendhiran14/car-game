@@ -1,0 +1,5 @@
+{
+  "name": "Neon Velocity AI",
+  "description": "A high-octane, top-down endless driving game featuring an AI Pit Boss powered by Gemini that reacts to your performance in real-time.",
+  "requestFramePermissions": []
+}
